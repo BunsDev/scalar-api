@@ -1,5 +1,30 @@
 # @scalar/use-hooks
 
+## 0.1.45
+
+### Patch Changes
+
+- @scalar/themes@0.10.3
+
+## 0.1.44
+
+### Patch Changes
+
+- @scalar/themes@0.10.2
+
+## 0.1.43
+
+### Patch Changes
+
+- 2b61d8e: docs(icons): update docs and storybook
+  - @scalar/themes@0.10.1
+
+## 0.1.42
+
+### Patch Changes
+
+- 363276e: feat(icons): add Phosphor icons to @scalar/icons
+
 ## 0.1.41
 
 ### Patch Changes

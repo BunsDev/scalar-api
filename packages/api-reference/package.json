@@ -20,7 +20,7 @@
     "vue",
     "vue3"
   ],
-  "version": "1.28.22",
+  "version": "1.28.26",
   "engines": {
     "node": ">=18"
   },
@@ -70,6 +70,7 @@
     "@scalar/api-client": "workspace:*",
     "@scalar/code-highlight": "workspace:*",
     "@scalar/components": "workspace:*",
+    "@scalar/icons": "workspace:*",
     "@scalar/oas-utils": "workspace:*",
     "@scalar/openapi-parser": "workspace:*",
     "@scalar/openapi-types": "workspace:*",
@@ -83,6 +84,7 @@
     "flatted": "^3.3.1",
     "fuse.js": "^7.0.0",
     "github-slugger": "^2.0.0",
+    "microdiff": "^1.4.0",
     "nanoid": "catalog:",
     "vue": "catalog:",
     "zod": "catalog:"
